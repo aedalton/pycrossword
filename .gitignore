@@ -1,0 +1,8 @@
+/venv-build
+/venv-dev
+/.DS_Store
+__pycache__
+
+# Emacs files
+*~
+\#*\#
